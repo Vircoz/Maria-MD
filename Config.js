@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber =  "919931122319"
-global.ownername = "Ayush Pandey"
+global.ownernumber =  "254758542966"
+global.ownername = "kev kelvin"
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
@@ -26,13 +26,13 @@ global.link = 'https://chat.whatsapp.com/Jllsl2OaQNoBjepxzuVsZM'
 global.prefa = ['.']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti212 = false //auto block +92 
-global.autoread_status = false //auto view status/story
+global.autoread_status = true //auto view status/story
 
 
 
